@@ -9,7 +9,7 @@ project is mostly to learn full stack integration but also build an app that I w
 
 Project will be built with Java, PostgreSQL and vue.js. 
 
-** Goals for MVP **
+**Goals for MVP**
 
 *User can create a draft, selecting the number of teams and manually assigning names or auto generating generic names
 *User can create their own rankings of players or use a default ranking
