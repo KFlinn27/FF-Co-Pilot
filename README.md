@@ -1,5 +1,7 @@
 # FF-Co-Pilot
 
+## PROJECT IS NOT IN FUNCTIONAL STATE, ONLY PLANNING
+
 ## Project Goal
 
 Commercial fantasy football draft apps don't have useful features unlocked in base versions or flatout don't operate the way I need them to. The goal of this
